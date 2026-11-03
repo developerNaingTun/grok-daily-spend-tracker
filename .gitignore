@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+bin/
+obj/
+.env
+.env.*
+!.env.example
+*.user

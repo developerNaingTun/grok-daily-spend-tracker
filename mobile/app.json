@@ -1,0 +1,1 @@
+{"expo":{"name":"Together Spend","slug":"together-spend","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","ios":{"supportsTablet":true},"android":{"package":"com.togetherspend.app"},"plugins":["expo-secure-store"]}}
